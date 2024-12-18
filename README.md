@@ -1,4 +1,4 @@
-# Data captures from Proel&copy; intercom exchange line
+# Data captures from Proel&trade; intercom exchange line
 
 ## Captures done with Rigol MSO5345
 
